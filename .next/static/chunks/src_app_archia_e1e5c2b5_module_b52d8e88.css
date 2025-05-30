@@ -1,0 +1,21 @@
+/* [project]/src/app/archia_e1e5c2b5.module.css [app-client] (css) */
+@font-face {
+  font-family: archia;
+  src: url("../media/archia_regular_webfont-s.p.6051786c.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: archia Fallback;
+  src: local(Arial);
+  ascent-override: 82.3%;
+  descent-override: 21.66%;
+  line-gap-override: 0.0%;
+  size-adjust: 115.44%;
+}
+
+.archia_e1e5c2b5-module__PTo-CW__className {
+  font-family: archia, archia Fallback;
+}
+
+/*# sourceMappingURL=src_app_archia_e1e5c2b5_module_b52d8e88.css.map*/

@@ -1,0 +1,24 @@
+<svg viewBox="19.09 16.77027027027027 161 32.16216216216216" version="1.1" xmlns="http://www.w3.org/2000/svg" id="Layer_1" style="max-height: 500px" width="161" height="32.16216216216216">
+  
+  <defs>
+    <style>
+      .st0 {
+        font-family: Helvetica-Light, 'Helvetica Light';
+        font-size: 5.3px;
+        font-weight: 300;
+      }
+
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st1 {
+        font-family: Bytalion-Regular, Bytalion;
+        font-size: 39.2px;
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text transform="translate(18.7 45.8)" class="st1"><tspan y="0" x="0">branstalk</tspan></text>
+  <text transform="translate(173.5 26)" class="st0"><tspan y="0" x="0">™</tspan></text>
+</svg>
